@@ -1,4 +1,4 @@
-markdown# 🌦️ Weather Pipeline
+# 🌦️ Weather Pipeline
 
 An automated ETL pipeline that collects live weather data 
 for Indian cities, transforms it and stores it in a database 
